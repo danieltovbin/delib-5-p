@@ -168,3 +168,4 @@ export default function App() {
 // export const install: { deferredPrompt: any } = {
 // 	deferredPrompt: {} as Event,
 // };
+//y
