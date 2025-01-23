@@ -33,12 +33,7 @@
   --result-text: white;
 
   //question
-  --question: #1093fd;
-  --question-text: white;
-
-  //group
-  --group: #B893E7;
-  --group-text: white;
+  --question: #62beeb;
 
 
   //evaluation
@@ -126,11 +121,6 @@
 
   //wights
   --wight-medium: 400;
-
-
-
-
-
 
 
   //FIGMA LIBRARY COLORS
@@ -309,11 +299,16 @@
   --emoji-sad-inactive-contrast: #212736;
 
   //headers
-  --header-home: #5f88e5;
-  --header-question: #47b4ef;
-  --header-chosen: #76c0b3;
-  --header-not-chosen: #ffe16a;
-  --header-group: #b9a1e8;
+  --header-home: #6394ee;
+  --header-bg-color: #5899e0;
+  --header-question: #62beeb;
+  --header-option-chosen: #76c0b3;
+  --header-option-non-chosen: #e7d080;
+  --header-search-chips: #f5e3a3;
+  //headers-contrast
+  --header-bg-color-contrast: #476FCA;
+  --header-question-contrast: #476fca;
+  --header-home-contrast: #ffffff;
 
   //headers-contrast
   --header-home-contrast: #165bfa;
